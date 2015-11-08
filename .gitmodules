@@ -1,0 +1,3 @@
+[submodule "examples/WebsocketOverWiFiExample"]
+	path = examples/WebsocketOverWiFiExample
+	url = git@github.com:Sergyenko/WebsocketOverWiFiExample.git
